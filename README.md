@@ -5,8 +5,7 @@
 💻 Experienced in building full-stack web applications with **React, TypeScript, Next.js, FastAPI, and Node.js**.  
 🤖 Building **Agentic AI workflows** (LangGraph, Gemini AI) and optimizing low-latency data pipelines.  
 📈 Interested in **Quantitative trading systems, algorithmic execution, and financial analytics**.  
-🌱 Exploring first-principles software engineering, distributed systems, and real-world AI deployment.  
-📍 Ghaziabad / Bangalore, India  
+🌱 Exploring first-principles software engineering, distributed systems, and real-world AI deployment.
 
 ---
 
