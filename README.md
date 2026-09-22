@@ -1,11 +1,11 @@
-# 💫 About Me:
+# Hi, I'm Swayam Jain 👋
+#### `</>` Full-Stack Development · AI Products · Quantitative Systems
 
-🚀 **Full-Stack Developer & AI Builder** passionate about building high-impact products, quantitative systems, and autonomous AI agents.  
-🎓 **B.Tech in Computer Science and Engineering** at SRM Institute of Science and Technology (2023 – 2027) · CGPA: 8.17.  
-💻 Experienced in building full-stack web applications with **React, TypeScript, Next.js, FastAPI, and Node.js**.  
-🤖 Building **Agentic AI workflows** (LangGraph, Gemini AI) and optimizing low-latency data pipelines.  
-📈 Interested in **Quantitative trading systems, algorithmic execution, and financial analytics**.  
-🌱 Exploring first-principles software engineering, distributed systems, and real-world AI deployment.
+🚀 **Product-Focused Builder**: I create products of direct value to end-users, starting from real-world problems and iterating toward the simplest shippable solution.  
+🤖 **AI-Assisted Engineering**: Building applications with modern AI workflows while maintaining deep architectural rigor—understanding internals, APIs, edge cases, and performance limits.  
+📈 **Software, AI & Quantitative Systems**: Passionate about quantitative finance and autonomous tooling—built multi-agent trading research workflows, conversational financial agents, and real-time NSE market simulators.  
+🧠 **First-Principles Mindset**: Learning by building from scratch, deeply exploring concepts, and turning theoretical understanding into working code.  
+⚡ **System Optimization & Automation**: Driven by debugging, simplifying complex architectures, and automating repetitive tasks into streamlined products.
 
 ---
 
